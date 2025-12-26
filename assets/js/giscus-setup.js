@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Vani-Nigam07/Vani_Nigam_Portfolio",
+    "data-repo": "Vani-Nigam07/Portfolio",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
