@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.io/blog/./sitemap.xml
+Sitemap: https://Vani-Nigam07.github.io/Portfolio/sitemap.xml
