@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Learning my building, Building by learning",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Portfolio/projects/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Resume pdf",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Portfolio/cv/";
@@ -422,9 +422,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-mcp-client-server-orchestration-for-polymer-property-prediction",
+          title: 'MCP Client-Server Orchestration for Polymer Property Prediction',
+          description: "PolyAgent",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio/projects/1_project/";
             },},{id: "projects-project-2",
