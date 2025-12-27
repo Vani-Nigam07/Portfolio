@@ -427,14 +427,14 @@ ninja.data = [{
           description: "PolyAgent",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-thoughts-trader-psychologically-aware-conversationalist-ai-agent",
+          title: 'Thoughts-Trader Psychologically aware conversationalist AI Agent',
+          description: "Research Position, Human-Computer Interaction Center (HCI), Carnegie Mellon University",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-time-series-classification-with-deterministic-learning",
+          title: 'Time Series Classification with Deterministic Learning',
+          description: "Bachelor’s Thesis Project, Professor Brahma Deo, India  (April 2024 – April 2025)",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio/projects/3_project/";
             },},{id: "projects-project-4",
