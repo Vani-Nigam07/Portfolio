@@ -392,12 +392,7 @@ ninja.data = [{
             window.location.href = "/Portfolio/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/Portfolio/books/the_godfather/";
-            },},{id: "projects-mcp-client-server-orchestration-for-polymer-property-prediction",
+      },{id: "projects-mcp-client-server-orchestration-for-polymer-property-prediction",
           title: 'MCP Client-Server Orchestration for Polymer Property Prediction',
           description: "PolyAgent",
           section: "Projects",handler: () => {
