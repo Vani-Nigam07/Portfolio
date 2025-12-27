@@ -427,7 +427,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/Vani-Nigam07", "_blank");
+          window.open("https://github.com/Vani-Nigam07", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -441,21 +441,21 @@ ninja.data = [{
         title: 'Kaggle',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.kaggle.com/https://www.kaggle.com/vaninigam", "_blank");
+          window.open("https://www.kaggle.com/vaninigam", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/www.linkedin.com/in/vani-nigam", "_blank");
+          window.open("https://www.linkedin.com/in/vani-nigam", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0006-6020-5982", "_blank");
+          window.open("https://orcid.org/0009-0006-6020-5982", "_blank");
         },
       },{
         id: 'social-rss',
