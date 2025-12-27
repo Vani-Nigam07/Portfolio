@@ -423,11 +423,39 @@ ninja.data = [{
           window.open("mailto:%76%6E%69%67%61%6D@%61%6E%64%72%65%77.%63%6D%75.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/https://github.com/Vani-Nigam07", "_blank");
+        },
+      },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/1010907", "_blank");
+        },
+      },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/https://www.kaggle.com/vaninigam", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/www.linkedin.com/in/vani-nigam", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/https://orcid.org/0009-0006-6020-5982", "_blank");
         },
       },{
         id: 'social-rss',
