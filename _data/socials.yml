@@ -15,21 +15,21 @@ cv_pdf: assets/pdf/Vani_Nigam_MS_2025.pdf # path to your CV PDF file
 email: vnigam@andrew.cmu.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: https://github.com/Vani-Nigam07 # your GitHub user name
+github_username: Vani-Nigam07 # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
-kaggle_id: https://www.kaggle.com/vaninigam # your kaggle id
+kaggle_id: vaninigam # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: www.linkedin.com/in/vani-nigam # your LinkedIn user name
+linkedin_username: vani-nigam # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: https://orcid.org/0009-0006-6020-5982  # your ORCID ID
+orcid_id: 0009-0006-6020-5982  # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
