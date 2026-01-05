@@ -12,4 +12,4 @@ category: Hackathons
 - As result of the AI and ML for Microscopy, Hackathon 2025 by Sergei V. Kalinin :
 
 
-{% endraw %}
+
