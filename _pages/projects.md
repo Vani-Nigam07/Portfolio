@@ -5,7 +5,7 @@ permalink: /Projects/
 description: Learning my building, Building by learning
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: ["Academic Projects", "Hackathons", "Teaching Assistance role"]
 horizontal: false
 ---
 
