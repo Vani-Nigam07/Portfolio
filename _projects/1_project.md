@@ -1,10 +1,10 @@
 ---
 layout: page
 title: MCP Client-Server Orchestration for Polymer Property Prediction 
-description: PolyAgent
+description: PolyAgent:- MCP-orchestrated client server
 img: assets/img/1.jpg
 importance: 1
-category: work
+category:  Academic Projects
 related_publications: true
 ---
 

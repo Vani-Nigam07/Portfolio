@@ -17,7 +17,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔃 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Vani-Nigam07.github.io # the base hostname & protocol for your site
 baseurl: /Portfolio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -87,9 +87,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: Medium Article # blog_name will be displayed in your blog page
+blog_description: 
+permalink:  https://medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705 
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -117,7 +117,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

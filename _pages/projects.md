@@ -4,7 +4,7 @@ title: Projects
 permalink: /Projects/
 description: Learning my building, Building by learning
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work]
 horizontal: false
 ---

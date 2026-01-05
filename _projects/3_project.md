@@ -5,7 +5,7 @@ description: Bachelor’s Thesis Project, Professor Brahma Deo, India  (April 20
 img: assets/img/3.jpg
 # redirect: https://unsplash.com
 importance: 3
-category: work
+category: Academic Projects
 ---
 
 - Constructed an RBF Neural Network for EEG classification, emphasizing feature extraction and strategic handling of imbalanced data; the model was trained in over 2,000 time-series samples, ensuring consistent predictions. 
