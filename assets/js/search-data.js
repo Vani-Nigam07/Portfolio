@@ -395,7 +395,7 @@ ninja.data = [{
               window.location.href = "/Portfolio/projects/3_project";
             },},{id: "projects-project-4",
           title: 'project 4',
-          description: "another without an image",
+          description: "Large Language Models (LLMs) automation of microscopy",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio/projects/4_project";
             },},{id: "projects-small-object-detection-with-integration-of-celeste",
