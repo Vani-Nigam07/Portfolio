@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2025/plotly/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -56,7 +56,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/photo-gallery/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-tabs",
@@ -67,7 +67,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/tabs/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-typograms",
@@ -78,7 +78,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/typograms/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -89,7 +89,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/post-citation/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-pseudo-code",
@@ -100,7 +100,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/pseudocode/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -111,7 +111,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/code-diff/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-advanced-image-components",
@@ -122,7 +122,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/advanced-images/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-vega-lite",
@@ -133,7 +133,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/vega-lite/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -144,7 +144,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/geojson-map/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-echarts",
@@ -155,7 +155,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/echarts/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-chart-js",
@@ -166,7 +166,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2024/chartjs/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -177,7 +177,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/tikzjax/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-bibliography",
@@ -188,7 +188,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/post-bibliography/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -199,7 +199,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/jupyter-notebook/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -210,7 +210,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/custom-blockquotes/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -221,7 +221,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-audios",
@@ -232,7 +232,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/audios/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-videos",
@@ -243,7 +243,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/videos/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -254,7 +254,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/tables/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -265,7 +265,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2023/table-of-contents/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-giscus-comments",
@@ -276,7 +276,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2022/giscus-comments/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-redirect",
@@ -298,7 +298,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2021/diagrams/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -309,7 +309,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2021/distill/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -320,7 +320,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2020/twitter/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -331,7 +331,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2015/disqus-comments/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-math",
@@ -342,7 +342,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2015/math/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-code",
@@ -353,7 +353,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2015/code/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-images",
@@ -364,7 +364,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2015/images/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
@@ -375,39 +375,39 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/Portfolio/blog/2015/formatting-and-links/";
+            window.location.href = "/Portfolio/https:/medium.com/@21mm01016/how-to-get-that-admit-in-your-inbox-d6af70efd705";
           
         },
       },{id: "projects-mcp-client-server-orchestration-for-polymer-property-prediction",
           title: 'MCP Client-Server Orchestration for Polymer Property Prediction',
-          description: "PolyAgent",
+          description: "PolyAgent:- MCP-orchestrated client server",
           section: "Projects",handler: () => {
-              window.location.href = "/Portfolio/projects/1_project/";
+              window.location.href = "/Portfolio/projects/1_project";
             },},{id: "projects-thoughts-trader-psychologically-aware-conversationalist-ai-agent",
           title: 'Thoughts-Trader Psychologically aware conversationalist AI Agent',
           description: "Research Position, Human-Computer Interaction Center (HCI), Carnegie Mellon University",
           section: "Projects",handler: () => {
-              window.location.href = "/Portfolio/projects/2_project/";
+              window.location.href = "/Portfolio/projects/2_project";
             },},{id: "projects-time-series-classification-with-deterministic-learning",
           title: 'Time Series Classification with Deterministic Learning',
           description: "Bachelor’s Thesis Project, Professor Brahma Deo, India  (April 2024 – April 2025)",
           section: "Projects",handler: () => {
-              window.location.href = "/Portfolio/projects/3_project/";
+              window.location.href = "/Portfolio/projects/3_project";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/Portfolio/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/Portfolio/projects/4_project";
+            },},{id: "projects-small-object-detection-with-integration-of-celeste",
+          title: 'Small Object Detection with integration of Celeste',
+          description: "TA for Cognitive Robotics- Course 15-494- Carnegie Mellon University",
           section: "Projects",handler: () => {
-              window.location.href = "/Portfolio/projects/5_project/";
+              window.location.href = "/Portfolio/projects/5_project";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/Portfolio/projects/6_project/";
+              window.location.href = "/Portfolio/projects/6_project";
             },},{
         id: 'social-cv',
         title: 'CV',
