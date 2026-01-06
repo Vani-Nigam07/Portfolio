@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: Large Language Models (LLMs) automation of microscopy
+title: Large Language Models (LLMs) automation of microscopy
+description: Experimental and theoretical workflows of microscopy
 img: assets/img/microscopr.png
 redirect: https://github.com/Vani-Nigam07/mic-hackahton-mcp
 importance: 4
