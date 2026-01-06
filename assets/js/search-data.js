@@ -393,9 +393,9 @@ ninja.data = [{
           description: "Bachelor’s Thesis Project, Professor Brahma Deo, India  (April 2024 – April 2025)",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio/projects/3_project";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "Large Language Models (LLMs) automation of microscopy",
+            },},{id: "projects-large-language-models-llms-automation-of-microscopy",
+          title: 'Large Language Models (LLMs) automation of microscopy',
+          description: "Experimental and theoretical workflows of microscopy",
           section: "Projects",handler: () => {
               window.location.href = "/Portfolio/projects/4_project";
             },},{id: "projects-small-object-detection-with-integration-of-celeste",
